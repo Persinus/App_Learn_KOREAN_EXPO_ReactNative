@@ -6,7 +6,24 @@ An interactive Korean learning app built using Expo (React Native) for the front
   <img src="./assets/logo.png" alt="App Icon" width="180" />
 </div>
 
-🎥 Demo video: [Watch on YouTube](https://youtu.be/FxwFww0zoiA)  
+
+🎥 Demo videos:
+
+<a href="https://www.youtube.com/watch?v=3QJL5jFvha8" target="_blank">
+  <img src="https://img.youtube.com/vi/3QJL5jFvha8/0.jpg" alt="Demo Video 1 - Front-End" width="48%" />
+</a>
+<a href="https://www.youtube.com/watch?v=FxwFww0zoiA" target="_blank">
+  <img src="https://img.youtube.com/vi/FxwFww0zoiA/0.jpg" alt="Demo Video 2 - Back-End" width="48%" />
+</a>
+
+- **Video 1**: [Watch Front-End Demo](https://www.youtube.com/watch?v=3QJL5jFvha8)  
+  This video demonstrates the Front-End interface of the app.
+  
+- **Video 2**: [Watch Back-End Integration Demo](https://www.youtube.com/watch?v=FxwFww0zoiA)  
+  This video shows how the interface updates dynamically when the Back-End is connected.
+
+
+
 📦 APK Download: Check the `App-Learn-Korean.apk` file in this repository.
 
 ---
