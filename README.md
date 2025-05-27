@@ -10,10 +10,10 @@ An interactive Korean learning app built using Expo (React Native) for the front
 🎥 Demo videos:
 
 <a href="https://www.youtube.com/watch?v=3QJL5jFvha8" target="_blank">
-  <img src="https://img.youtube.com/vi/3QJL5jFvha8/0.jpg" alt="Demo Video 1 - Front-End" width="48%" />
+  <img src="https://img.youtube.com/vi/3QJL5jFvha8/0.jpg" alt="Demo Video 1 - Front-End" width="45%" />
 </a>
 <a href="https://www.youtube.com/watch?v=FxwFww0zoiA" target="_blank">
-  <img src="https://img.youtube.com/vi/FxwFww0zoiA/0.jpg" alt="Demo Video 2 - Back-End" width="48%" />
+  <img src="https://img.youtube.com/vi/FxwFww0zoiA/0.jpg" alt="Demo Video 2 - Front-End & Back-End" width="45%" />
 </a>
 
 - **Video 1**: [Watch Front-End Demo](https://www.youtube.com/watch?v=3QJL5jFvha8)  
